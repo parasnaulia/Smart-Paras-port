@@ -7,7 +7,10 @@ export const Obj = [
         heading: "Backend",
         data: "Nodejs, Expressjs, MongoDb, MySql, RestFulApi ",
       },
-      { heading: "DataStuture and Algorithms", data: "C, C++, JavaScript" },
+      {
+        heading: "DataStuture and Algorithms",
+        data: "C, C++, JavaScript,java",
+      },
     ],
   },
   {
