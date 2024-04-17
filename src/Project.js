@@ -89,49 +89,7 @@ const Project = () => {
             </p>
           </div>
         </div>
-        <div>
-          <div>
-            <h1 className="alan"> AI ImageGeneration App</h1>
-            <p>
-              Designed and deployed a Full Stack MERN AI Image Generation
-              App,capable of generating unique and creative images using
-              advanced AI algorithms, demonstrating proficiency in AI
-              integration and full-stack. Used
-              React,Nodejs,ExpressJs,mongoDB,Open AI
-            </p>
-            <p>
-              <a
-                className={mode ? "d1" : "w1"}
-                href="https://github.com/parasnaulia/Image_gerneration"
-                target="_blank"
-              >
-                Link
-              </a>
-            </p>
-          </div>
-        </div>
-        <div>
-          <div>
-            <h1 className="alan">Image Encryption and Decryption</h1>
-            <p>
-              In This Project we make
-              aGUI-basedwindowwherewecanDevelopedaGUI-basedImageEncryptionand
-              Decryption application utilizing symmetric key encryption
-              techniques, ensuring secure data protection for images, text, pdf
-              and videos. Used Core Java,Cryptography .
-            </p>
-            <p>
-              {" "}
-              <a
-                className={mode ? "d1" : "w1"}
-                href="https://github.com/parasnaulia/Pdf_image_file_encryption-_decryption"
-                target="_blank"
-              >
-                Link
-              </a>
-            </p>
-          </div>
-        </div>
+
         <div>
           <div>
             <h1 className="alan">YouTube Clone Developer</h1>
@@ -219,6 +177,27 @@ const Project = () => {
         </div>
         <div>
           <div>
+            <h1 className="alan"> AI ImageGeneration App</h1>
+            <p>
+              Designed and deployed a Full Stack MERN AI Image Generation
+              App,capable of generating unique and creative images using
+              advanced AI algorithms, demonstrating proficiency in AI
+              integration and full-stack. Used
+              React,Nodejs,ExpressJs,mongoDB,Open AI
+            </p>
+            <p>
+              <a
+                className={mode ? "d1" : "w1"}
+                href="https://github.com/parasnaulia/Image_gerneration"
+                target="_blank"
+              >
+                Link
+              </a>
+            </p>
+          </div>
+        </div>
+        <div>
+          <div>
             <h1 className="alan">Decentralized Social Media App Developer</h1>
             <p>
               Developed a decentralized social media platform using MERN stack
@@ -253,6 +232,28 @@ const Project = () => {
               <a
                 className={mode ? "d1" : "w1"}
                 href="https://github.com/parasnaulia/decentralized-twitter-clone"
+                target="_blank"
+              >
+                Link
+              </a>
+            </p>
+          </div>
+        </div>
+        <div>
+          <div>
+            <h1 className="alan">Image Encryption and Decryption</h1>
+            <p>
+              In This Project we make
+              aGUI-basedwindowwherewecanDevelopedaGUI-basedImageEncryptionand
+              Decryption application utilizing symmetric key encryption
+              techniques, ensuring secure data protection for images, text, pdf
+              and videos. Used Core Java,Cryptography .
+            </p>
+            <p>
+              {" "}
+              <a
+                className={mode ? "d1" : "w1"}
+                href="https://github.com/parasnaulia/Pdf_image_file_encryption-_decryption"
                 target="_blank"
               >
                 Link

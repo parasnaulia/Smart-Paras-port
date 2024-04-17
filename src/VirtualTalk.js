@@ -28,8 +28,12 @@ const VirtualTalk = () => {
           <div>7. What are Your Survices</div>
           <div>8. Navigate or Go To Project Section</div>
           <div>9. Navigate or Go To About us Section</div>
-          <div>10. Navigate or Go To Survices Section</div>
-          <div>11. Naviagte To Home Section</div>
+          <div>10. Navigate or Go To Survices/Home Section</div>
+          <div>11. Open Project [ProjectName]</div>
+          <div>
+            12.Tell me about your [ProjectName] (For Example- AI-Powered Voice
+            Assistant Project )
+          </div>
           <div></div>
         </div>
       </div>

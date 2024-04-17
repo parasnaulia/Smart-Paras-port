@@ -13,9 +13,22 @@ export const Obj = [
   {
     category: "Web",
     items: [
-      { heading: "Web", data: "Omg Designer" },
-      { heading: "Ui/ux", data: "Omg Designer" }, // Assuming this is intentional
-      { heading: "Ui/ux", data: "Omg Designer" },
+      {
+        heading: "Voice-Controlled News Application Developer",
+        data: "Developed a cutting-edge news application utilizing React.js, Material UI, Redux, and integrating ALNA AI voice assistance technology. Empowered users to navigate through news articles hands-free by providing voice commands, enhancing accessibility and user experience.",
+      },
+      {
+        heading: "AI ImageGeneration App",
+        data: "Designed and deployed a Full Stack MERN AI Image Generation App,capable of generating unique and creative images using advanced AI algorithms, demonstrating proficiency in AI integration and full-stack. Used React,Nodejs,ExpressJs,mongoDB,Open AI",
+      }, // Assuming this is intentional
+      {
+        heading: "Netflix Clone with AI-Powered Movie Suggestions",
+        data: "Developed a Netflix clone with GPT-powered search for keyword-based movie suggestions. Integrated attractive UI/UX, authentication (login/register), and utilized Node.js, Express.js, MongoDB, React, and Redux for seamless functionality.",
+      },
+      {
+        heading: <a href="#ProjectSCroll">More Projects...</a>,
+        data: "",
+      },
     ],
   },
   {

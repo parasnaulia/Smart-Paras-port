@@ -68,27 +68,39 @@ const Contact = () => {
           <span className="Email">9997272448</span>
         </div>
         <div>
-          <span>
+          <a
+            href="https://www.facebook.com/profile.php?id=100004072161958"
+            target="_blank"
+          >
             <FaFacebook className="logos" />
-          </span>
-          <span>
+          </a>
+          <a href="https://www.instagram.com/nauliaparas/" target="_blank">
             <FaInstagram className="logos" />
-          </span>
-          <span>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/paras-naulia-790544186/"
+            target="_blank"
+          >
             <CiLinkedin className="logos" />
-          </span>
-          <span>
+          </a>
+          <a href="https://leetcode.com/Paras_Naulia/" target="_blank">
             <SiLeetcode className="logos" />
-          </span>
-          <span>
+          </a>
+          <a
+            href="https://www.geeksforgeeks.org/user/parasnau2tns/"
+            target="_blank"
+          >
             <SiGeeksforgeeks className="logos" />
-          </span>
-          <span>
+          </a>
+          <a
+            href="https://www.naukri.com/code360/profile/d355d874-0e13-4c54-a99d-dcf04e22a7a0"
+            target="_blank"
+          >
             <SiCodingninjas className="logos" />
-          </span>
-          <span>
+          </a>
+          <a href="https://github.com/parasnaulia" target="_blank">
             <FaGithub className="logos" />
-          </span>
+          </a>
         </div>
         <div>
           <button

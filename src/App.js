@@ -19,6 +19,10 @@ const App = () => {
       element.scrollIntoView({ behavior: "smooth", block: "start" });
     }
   };
+  const NavigateBhai = (Link) => {
+    // window.open(Link, "_blank");
+    window.location.href = Link;
+  };
   const [mode, setMode] = useState(false);
   const [virtual, setVirtual] = useState(false);
 
@@ -41,7 +45,33 @@ const App = () => {
           ScrollAboutMe("ContactScroll");
         } else if (commandData.command === "AboutMe") {
           ScrollAboutMe("AboutMeScroll");
+        } else if (commandData.command === "Link_Alan") {
+          NavigateBhai(
+            "https://parasnaulia.github.io/Voice-Assistant-News-Project-/"
+          );
+        } else if (commandData.command === "Link_Youtube") {
+          NavigateBhai("https://paras-yout-u-be.web.app/");
+        } else if (commandData.command === "Link_Netflix") {
+          NavigateBhai("https://netflix-best-nyoo.vercel.app/");
+        } else if (commandData.command === "Link_Ecomm") {
+          NavigateBhai("https://ecommerce-front-end-two-gamma.vercel.app/");
+        } else if (commandData.command === "Link_AIIamge") {
+          NavigateBhai("https://github.com/parasnaulia/Image_gerneration");
+        } else if (commandData.command === "Link_Block") {
+          NavigateBhai(
+            "https://github.com/parasnaulia/decentralized-twitter-clone"
+          );
+        } else if (commandData.command === "Link_Port") {
+          NavigateBhai("https://github.com/parasnaulia/Mera-Paras-Port1");
+        } else if (commandData.command === "Link_Crypto") {
+          NavigateBhai(
+            "https://github.com/parasnaulia/Pdf_image_file_encryption-_decryption"
+          );
+        } else if (commandData.command === "Link_Food") {
+          NavigateBhai("https://github.com/parasnaulia/Food-Ordering-App");
         }
+
+        //   window.open(linkUrl, '_blank');
       },
     });
   }, []);
