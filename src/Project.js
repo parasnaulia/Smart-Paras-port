@@ -68,9 +68,7 @@ const Project = () => {
         </div>
         <div className="alan">
           <div>
-            <h1 className="alan">
-              Voice-Controlled News Application Developer
-            </h1>
+            <h1 className="alan">Voice-Controlled News Application</h1>
             <p className={mode == true ? "d" : "w"}>
               Developed a cutting-edge news application utilizing React.js,
               Material UI, Redux, and integrating ALNA AI voice assistance
@@ -92,7 +90,7 @@ const Project = () => {
 
         <div>
           <div>
-            <h1 className="alan">YouTube Clone Developer</h1>
+            <h1 className="alan">YouTube Clone </h1>
             <p>
               Spearheaded the creation of a dynamic YouTube clone utilizing
               React.js, Redux, and incorporating the YouTube API to replicate
@@ -115,7 +113,7 @@ const Project = () => {
         </div>
         <div>
           <div>
-            <h1 className="alan">Food Ordering App Developer</h1>
+            <h1 className="alan">Food Ordering Application</h1>
             <p>
               Created a robust food ordering app with React.js and Redux,
               offering real-time order tracking, secure payments, and
@@ -156,7 +154,7 @@ const Project = () => {
         </div>
         <div>
           <div>
-            <h1 className="alan">MERN E-commerce Website Developer</h1>
+            <h1 className="alan">MERN E-commerce Website </h1>
             <p>
               Created an MERN e-commerce platform with search, sort, and filter
               features, personalized recommendations, Stripe payment gateway,
@@ -198,7 +196,7 @@ const Project = () => {
         </div>
         <div>
           <div>
-            <h1 className="alan">Decentralized Social Media App Developer</h1>
+            <h1 className="alan">Decentralized Social Media App </h1>
             <p>
               Developed a decentralized social media platform using MERN stack
               and Solidity, featuring real-time chat functionality powered by
