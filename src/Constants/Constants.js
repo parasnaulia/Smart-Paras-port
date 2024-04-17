@@ -2,7 +2,7 @@ export const Obj = [
   {
     category: "FrontEnd",
     items: [
-      { heading: "Frontend", data: "Html, Css, javascript, React, Rudux" },
+      { heading: "Frontend", data: "Html, Css, javascript, React, Redux" },
       {
         heading: "Backend",
         data: "Nodejs, Expressjs, MongoDb, MySql, RestFulApi ",
