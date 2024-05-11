@@ -9,7 +9,7 @@ const Services = () => {
     <div id="ServiceSCroll" className="Services_Container">
       <div>
         <h1 className={mode === true ? "h1-survice1" : "h1-survice2"}>
-          My Survices{" "}
+          My Services{" "}
         </h1>
       </div>
       <div className="Services_Container1">

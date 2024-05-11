@@ -17,7 +17,7 @@ const VirtualTalk = () => {
           />
         </div>
         <div className="talk">
-          <h2>You Can Talk To Me Vartually </h2>
+          <h2>You Can Talk To Me Virtually </h2>
           <h3>You Can Me Question Like</h3>
           <div>1.What is Your Name</div>
           <div>2.Give Your Introduction or Introduce YourSelf</div>
